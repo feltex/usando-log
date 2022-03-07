@@ -5,9 +5,9 @@
   
   Bibliotecas utilizadas
   
- - [logback](https://logback.qos.ch/)
- - [slfor4](https://www.slf4j.org/)
- - [lombock](https://projectlombok.org/)
+ - [Logback](https://logback.qos.ch/)
+ - [Slf4j](https://www.slf4j.org/)
+ - [Lombock](https://projectlombok.org/)
  
   
   
